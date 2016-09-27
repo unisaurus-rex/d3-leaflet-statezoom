@@ -1,0 +1,41 @@
+#mapid { 
+    width: 80%;
+    height: 600px;
+}
+
+.statepath {
+    fill-opacity: .2;
+    stroke: gray;
+    stroke-width: 1px;
+}
+
+#stateTooltip {
+    position: absolute;
+    width: 200px;
+    height: 150px;
+    padding: 10px;
+    background-color: whitesmoke;
+    border-radius: 10px;
+    pointer-events: none;
+}
+
+.hidden {
+    display: none;
+}
+
+.location {
+    fill: red;
+    fill-opacity: 0.8;
+    stroke: gray;
+    stroke-width: 1px;
+}
+
+#locationTooltip {
+    position: absolute;
+    width: 200px;
+    height: 150px;
+    padding: 10px;
+    background-color: whitesmoke;
+    border-radius: 10px;
+    pointer-events: none;
+}

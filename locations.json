@@ -1,0 +1,155 @@
+{ "locations":[
+  {
+    "name": "DOLORES STATE BANK",
+    "address": "744 E MAIN",
+    "city": "CORTEZ",
+    "state": "Colorado",
+    "zip": "81321",
+    "tags": "jeanie",
+    "coordinates": [37.3491284, -108.5756061]
+  },
+  {
+    "name": "PIKES PEAK CREDIT UN",
+    "address": "720 W. MIDLAND AVE",
+    "city": "WOODLAND PARK",
+    "state": "Colorado",
+    "zip": "80863",
+    "tags": "jeanie",
+    "coordinates": [38.9939954, -105.061712]
+  },
+  {
+    "name": "POWER CREDIT UNION",
+    "address": "3165 HWY 50 E",
+    "city": "CANON CITY",
+    "state": "Colorado",
+    "zip": "81212",
+    "tags": "jeanie",
+    "coordinates": [38.44775449999999, -105.1889245]
+  },
+  {
+    "name": "COLORADO COMM BANK",
+    "address": "20991 E SMOKY HILL",
+    "city": "CENTENNIAL",
+    "state": "Colorado",
+    "zip": "80015",
+    "tags": "jeanie",
+    "coordinates": [39.6079999, -104.742438]
+  },
+  {
+    "name": "COLORADO COMM BANK",
+    "address": "5855 FIRESTONE BLVD",
+    "city": "FIRESTONE",
+    "state": "Colorado",
+    "zip": "80504",
+    "tags": "jeanie",
+    "coordinates": [40.1611529, -104.9446718]
+  },
+  {
+    "name": "COLORADO COMM BANK",
+    "address": "500 NORTH WILCOX",
+    "city": "CASTLE ROCK",
+    "state": "Colorado",
+    "zip": "80104",
+    "tags": "jeanie",
+    "coordinates": [39.3745726, -104.8596528]
+  },
+  {
+    "name": "AIR ACADEMY FCU",
+    "address": "417 THIRD STREET",
+    "city": "MONUMENT",
+    "state": "Colorado",
+    "zip": "80920",
+    "tags": "jeanie west",
+    "coordinates": [39.09387419999999, -104.8673844]
+  },
+  {
+    "name": "AIR ACADEMY FCU",
+    "address": "545 W HIGHLANDS RCH",
+    "city": "HIGHLANDS RANCH",
+    "state": "Colorado",
+    "zip": "80920",
+    "tags": "jeanie west",
+    "coordinates": [39.550514, -104.9960842]
+  },
+  {
+    "name": "COLORADO EAST B&T",
+    "address": "1030 MAIN STREET",
+    "city": "SPRINGFIELD",
+    "state": "Colorado",
+    "zip": "81073",
+    "tags": "jeanie west",
+    "coordinates": [37.4035702, -102.6164278]
+  },
+  {
+    "name": "COLORADO EAST B&T",
+    "address": "399 4TH AVE",
+    "city": "SEVERANCE",
+    "state": "Colorado",
+    "zip": "80546",
+    "tags": "jeanie west",
+    "coordinates": [40.5228306, -104.8583329]
+  },
+  {
+    "name": "COLORADO EAST B&T",
+    "address": "141 COLORADO AVE",
+    "city": "STRATTON",
+    "state": "Colorado",
+    "zip": "80836",
+    "tags": "jeanie west",
+    "coordinates": [39.305022, -102.6046855]
+  },
+  {
+    "name": "COLORADO EAST B&T",
+    "address": "351 HIGHWAY 285",
+    "city": "FAIRPLAY",
+    "state": "Colorado",
+    "zip": "80440",
+    "tags": "jeanie west",
+    "coordinates": [39.221511, -105.992875]
+  },
+  {
+    "name": "COLORADO EAST B&T",
+    "address": "141 MAIN STREET",
+    "city": "MEADE",
+    "state": "Colorado",
+    "zip": "80542",
+    "tags": "jeanie west",
+    "coordinates": [40.2339466, -105.0002418]
+  },
+  {
+    "name": "AVENTA CREDIT UNION",
+    "address": "30 S NEVADA",
+    "city": "COLORADO SPRING",
+    "state": "Colorado",
+    "zip": "80903",
+    "tags": "jeanie west",
+    "coordinates": [38.8327826, -104.8223099]
+  },
+  {
+    "name": "AVENTA CREDIT UNION",
+    "address": "219 E KIOWA",
+    "city": "COLORADO SPRING",
+    "state": "Colorado",
+    "zip": "80903",
+    "tags": "jeanie west",
+    "coordinates": [38.8352159, -104.820426]
+  },
+  {
+    "name": "AVENTA CREDIT UNION",
+    "address": "705 S NEVADA",
+    "city": "COLORADO SPRING",
+    "state": "Colorado",
+    "zip": "80903",
+    "tags": "jeanie west",
+    "coordinates": [38.8240579, -104.8213401]
+  },
+  {
+    "name": "COLORADO EAST B&T",
+    "address": "725 HWY 24",
+    "city": "BUENA VISTA",
+    "state": "Colorado",
+    "zip": "81211",
+    "tags": "jeanie west",
+    "coordinates": [38.8478942, -106.1356208]
+  }
+]}
